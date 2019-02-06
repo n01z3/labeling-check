@@ -1,0 +1,2 @@
+image_path: '/home/n01z3/dataset/checkpoint/img'
+golden_dataset: '/home/n01z3/dataset/checkpoint/ann'
